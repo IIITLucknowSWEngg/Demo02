@@ -27,6 +27,8 @@ Sidharth Singh LCS2023043 Sidharth-Singh10 lcs2023043@iiitl.ac.in
 
 Ansh Agrawal LCS2023054 Ansh-Agrawal1817 lcs2023054@iiitl.ac.in
 
+Yuwansh Bansal LCS2023005 YuwanshB005 lcs2023005@iiitl.ac.in
+
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
 Dev Darshan LCS2023012 devdrx lcs2023012@iiitl.ac.in
@@ -61,19 +63,13 @@ Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
 Mohd Haider LCS2023038 haider038 lcs2023038@iiitl.ac.in
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Ayush Yadav Lit2023049 theayushyadav11 lit2023049@iiitl.ac.in
-=======
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 
-> > > > > > > # c81a9e9463fa85ff7d7118646737b10a7f8b31a1
-> > > > > > >
-> > > > > > > Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
-> > > > > > > a50d9c9b0094b427de68597e3e46ffc1dba588d0
-
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
+
+Karan Agarwal LIT2023011 Karanagarwal12 lit2023011@iiitl.ac.in
 
 Harshit Maheshwari LIT2023052 Harshit78228 lit2023052@iiitl.ac.in
 
@@ -82,5 +78,7 @@ Maneesh Shukla LIT2023040 shuklamaneesh23 lit2023040@iiitl.ac.in
 Neelesh Kumar Meena Lit2023045 Neelesh19634 Lit2023045@iiitl.ac.in
 
 Koushik Yadav LCS2023028 blackstorm02 lcs2023028@iiitl.ac.in
+
+Hrushikesh Sunil Gore LIT2023001 hrushiK1415 lit2023001@iiitl.ac.in
 
 Pranav Reddy K LIT2023004 PranavReddy0148 lit2023004@iiitl.ac.in
