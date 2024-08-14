@@ -21,6 +21,7 @@ Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
 Vishesh Singh LIT2023054 notVishesh vishesh.bhu1971@gmail.com
 
+Rishabh Kushwaha LIT2023041 RISHABHKUSHWAHA7 goldenyaro4321@gmail.com
 
 Sidharth Singh LCS2023043 Sidharth-Singh10  lcs2023043@iiitl.ac.in
 
