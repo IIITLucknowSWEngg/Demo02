@@ -56,4 +56,9 @@ Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
 Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
+<<<<<<< HEAD
 Ayush Yadav Lit2023049 theayushyadav11  lit2023049@iiitl.ac.in
+=======
+
+Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com 
+>>>>>>> c81a9e9463fa85ff7d7118646737b10a7f8b31a1
