@@ -126,3 +126,5 @@ Satyam Gupta LIT2023007 satyamgupta08 lit2023007@iiitl.ac.in
 Arshia Adhya LCS2023029 ArshiaAdhya lcs2023029@iiitl.ac.in 
 
 Abhay Prasad LIT2023006 abhay9494 lit2023006@iiitl.ac.in
+
+Gana Kalvakuntla LCS2023049 ganakalvakuntla2006 lcs2023049@iiitl.ac.in
