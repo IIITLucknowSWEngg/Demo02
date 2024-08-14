@@ -96,3 +96,5 @@ Sanyam Gupta  LCS2023006  thesanyam240705  lcs2023006@iiitl.ac.in
 Priyanshu Agarwal  LIT2023022   Priyanshu-2005  lit2023022@iiitl.ac.in
 
 Sanchita Patel LCS2023022 sanchitapatel29 lcs2023022@iiitl.ac.in
+
+Rishiraj Mukherjee LIT2023030 rishyym0927 lit2023030@iiitl.ac.in
