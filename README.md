@@ -84,3 +84,5 @@ Maneesh Shukla LIT2023040 shuklamaneesh23 lit2023040@iiitl.ac.in
 Neelesh Kumar Meena Lit2023045 Neelesh19634 Lit2023045@iiitl.ac.in
 
 Koushik Yadav LCS2023028 blackstorm02 lcs2023028@iiitl.ac.in
+
+Hrushikesh Sunil Gore LIT2023001 hrushiK1415 lit2023001@iiitl.ac.in
