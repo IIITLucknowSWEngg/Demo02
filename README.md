@@ -166,3 +166,5 @@ Bada Moksha Sai Reddy LIT2023053 MOKSHA021 lit2023053@iiitl.ac.in
 Akshaya V LCS2023011 akshayaxv lcs2023011@iiitl.ac.in
 
 Kalyan Chilamkuri LCS2023030 kalyanchilamkuri lcs2023030@iiitl.ac.in
+
+Anadi Mehta LCS2023020 anadimehta lcs2023020@gmail.com
