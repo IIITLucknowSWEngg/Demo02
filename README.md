@@ -14,6 +14,8 @@ Mayank Mishra LCS2023047 M-ayank2005 lcs2023047@gmail.com
 
 Ajay Antil LCS2023025 Ajayantil7 lcs2023025@iiitl.ac.in
 
+Prince LIT2023050 prince9569 www.princetdl@gmail.com 
+
 Shivam Zhar LCS2023024 Shivam1983 lcs2023024@iiitl.ac.in
 
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
@@ -145,6 +147,8 @@ Tadikonda Purnanagaphaneendra LIT2023026 purnatadikonda5 lit2023026@iiitl.ac.in
 Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
 
 satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
+
+Nayaab Zameer Qazi LCS2023036 nybzmr nybzmr02@gmail.com
 
 Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
 
