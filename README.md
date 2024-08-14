@@ -90,3 +90,5 @@ Sakshi Sahu LIT2023025 sakshisahu27 lit2023025@iiitl.ac.in
 Saloni Gupta LIT2023023 salonii04 lit2023023@iiitl.ac.in
 
 Sweta Kumari LIT2023019 swetak0911 lit2023019@iiitl.ac.in
+
+Sanyam Gupta  LCS2023006  thesanyam240705  lcs2023006@iiitl.ac.in
