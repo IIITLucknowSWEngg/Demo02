@@ -54,11 +54,17 @@ Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
+Vivek Tripathi LCS2023004 vivek23024   lcs2023004@iiitl.ac.in
+
 Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Ayush Yadav Lit2023049 theayushyadav11  lit2023049@iiitl.ac.in
 =======
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com 
 >>>>>>> c81a9e9463fa85ff7d7118646737b10a7f8b31a1
+=======
+Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com 
+>>>>>>> a50d9c9b0094b427de68597e3e46ffc1dba588d0
