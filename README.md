@@ -183,3 +183,5 @@ Kukkudapu Srinidhi LCS2023027 Sreenidhi01 lcs2023027@iiitl.ac.in
 
 Saloni LIT2023042 saloni1902 lit2023042@iiitl.ac.in
 
+Kurapati Venkata Revanth LIT2023024
+REVANTH-2-0-0-4 lit2023024@iiitl.ac.in
