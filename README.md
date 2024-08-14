@@ -118,3 +118,6 @@ Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
 Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
 
 Karthik Batthi  LCS2023046  karthikx999 lcs2023046@iiitl.ac.in
+
+Jagdish Shanamwad LCS2023053 jgs8688 lcs2023053@iiitl.ac.in
+
