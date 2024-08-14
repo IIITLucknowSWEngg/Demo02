@@ -75,6 +75,9 @@ Ayush Yadav Lit2023049 theayushyadav11 lit2023049@iiitl.ac.in
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 
+Prakash kumar Lcs2023056 PrakashKumar88
+9101prakashkumar@gmail.com
+
 Vedant Jadhav LCS2023035 VedantJadhav0017 vedantjadhav44551@gmail.com 
 
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
@@ -144,5 +147,3 @@ Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
 satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
 
 Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
-
-Sankaramaddi yamini lcs2023031 yamms2340  lcs2023031@iiitl.ac.in
