@@ -57,6 +57,8 @@ Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Salusha LCS2023009 Salusha lcs2023009@iiitl.ac.in
 
+Snehal Taori LCS2023008 snehaltaori lcs2023008@iiitl.ac.in
+
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
 Vivek Tripathi LCS2023004 vivek23024 lcs2023004@iiitl.ac.in
@@ -113,6 +115,6 @@ Aditya Gunjkar LIT2023015 aditya-gg04 lit2023015@iiitl.ac.in
 
 Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
 
-Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
+Maneesh Kumar LIT2023051 mani4002 lit2023051@iiitl.ac.in
 
-Ashok Kaji LCS2023018 ashokkaji26    lcs2023018@iiitl.ac.in
+Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
