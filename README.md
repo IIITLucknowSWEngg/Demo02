@@ -124,11 +124,14 @@ Aditya Gunjkar LIT2023015 aditya-gg04 lit2023015@iiitl.ac.in
 
 Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
 
+
 Maneesh Kumar LIT2023051 mani4002 lit2023051@iiitl.ac.in
 
-Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
+Venkata Sai Tejesh Thatikonda LIT2023010 SaiTejesh09 lit2023010@iiitl.ac.in
 
 Ashok kaji LCS2023018 ashokkaji26 lcs2023018@iiitl.ac.in
+
+Srivastav Chagapuram LIT2023037 srivastav2006 lit2023037@iiitl.ac.in
 
 Satyam Gupta LIT2023007 satyamgupta08 lit2023007@iiitl.ac.in
 
@@ -153,5 +156,3 @@ Nayaab Zameer Qazi LCS2023036 nybzmr nybzmr02@gmail.com
 Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
 
 Sankaramaddi yamini lcs2023031 yamms2340 lcs2023031@iiitl.ac.in
-
-Koyyani Naga Sai Yaaghnetha LIT2023034 yaaghnetha09 lit2023034@iiitl.ac.in
