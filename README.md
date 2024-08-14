@@ -131,6 +131,8 @@ Venkata Sai Tejesh Thatikonda LIT2023010 SaiTejesh09 lit2023010@iiitl.ac.in
 
 Ashok kaji LCS2023018 ashokkaji26 lcs2023018@iiitl.ac.in
 
+Srivastav Chagapuram LIT2023037 srivastav2006 lit2023037@iiitl.ac.in
+
 Satyam Gupta LIT2023007 satyamgupta08 lit2023007@iiitl.ac.in
 
 Arshia Adhya LCS2023029 ArshiaAdhya lcs2023029@iiitl.ac.in 
