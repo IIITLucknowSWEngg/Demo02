@@ -72,3 +72,5 @@ Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 >>>>>>> a50d9c9b0094b427de68597e3e46ffc1dba588d0
 
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
+
+Harshit Maheshwari LIT2023052 Harshit78228 lit2023052@iiitl.ac.in
