@@ -63,19 +63,13 @@ Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
 Mohd Haider LCS2023038 haider038 lcs2023038@iiitl.ac.in
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Ayush Yadav Lit2023049 theayushyadav11 lit2023049@iiitl.ac.in
-=======
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 
-> > > > > > > # c81a9e9463fa85ff7d7118646737b10a7f8b31a1
-> > > > > > >
-> > > > > > > Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
-> > > > > > > a50d9c9b0094b427de68597e3e46ffc1dba588d0
-
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
+
+Karan Agarwal LIT2023011 Karanagarwal12 lit2023011@iiitl.ac.in
 
 Harshit Maheshwari LIT2023052 Harshit78228 lit2023052@iiitl.ac.in
 
