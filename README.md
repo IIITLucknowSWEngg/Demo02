@@ -4,6 +4,8 @@ FirstName LastName Roll_No GithubID IIITLucknowEmailID
 
 Vinaya Sathyanarayana Roll_No VinayaSathyanarayana vinaya@iiitl.ac.in
 
+Aryan Kadian LCS2023051 aryankad1an lcs2023051@iiitl.ac.in
+
 Sangale Sumit Mahadeo LCS2023048 sumit0770 lcs2023048@iiitl.ac.in
 
 Vishal Parida LIT2023044 vishalparida lit2023044@iiitl.ac.in
