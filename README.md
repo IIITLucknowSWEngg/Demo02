@@ -58,6 +58,8 @@ Vivek Tripathi LCS2023004 vivek23024   lcs2023004@iiitl.ac.in
 
 Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
+Mohd Haider LCS2023038 haider038  lcs2023038@iiitl.ac.in
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 Ayush Yadav Lit2023049 theayushyadav11  lit2023049@iiitl.ac.in
