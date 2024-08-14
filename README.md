@@ -127,4 +127,6 @@ Arshia Adhya LCS2023029 ArshiaAdhya lcs2023029@iiitl.ac.in
 
 Abhay Prasad LIT2023006 abhay9494 lit2023006@iiitl.ac.in
 
+Siddharth Paladi LCS2023032 SiddharthPaladi lcs2023032@iiitl.ac.in
+
 Gana Kalvakuntla LCS2023049 ganakalvakuntla2006 lcs2023049@iiitl.ac.in
