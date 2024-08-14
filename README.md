@@ -161,3 +161,5 @@ Sankaramaddi yamini lcs2023031 yamms2340 lcs2023031@iiitl.ac.in
 Kalyan Chilamkuri LCS2023030 kalyanchilamkuri kalyanchilamkuri8@gmail.com
 
 bada  moksha sai reddy Lit2023053 MOKSHA021 mokshasai2005@gmail.com
+
+Jigyasa Jamra LIT2023014  jigyasajamra jigyasajamra2023@gmail.com
