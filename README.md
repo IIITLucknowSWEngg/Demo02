@@ -120,3 +120,5 @@ Maneesh Kumar LIT2023051 mani4002 lit2023051@iiitl.ac.in
 Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
 
 Ashok kaji LCS2023018 ashokkaji26 lcs2023018@iiitl.ac.in
+
+Arshia Adhya LCS2023029 ArshiaAdhya lcs2023029@iiitl.ac.in 
