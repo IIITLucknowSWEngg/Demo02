@@ -59,6 +59,8 @@ Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
 Vivek Tripathi LCS2023004 vivek23024 lcs2023004@iiitl.ac.in
 
+Vivek Tripathi LCS2023004 vivek23024   lcs2023004@iiitl.ac.in
+
 Raghvendra Mishra Lcs2023026 raghavmishra8382 lcs2023026@iiitl.ac.in
 
 Mohd Haider LCS2023038 haider038 lcs2023038@iiitl.ac.in
@@ -82,3 +84,7 @@ Koushik Yadav LCS2023028 blackstorm02 lcs2023028@iiitl.ac.in
 Hrushikesh Sunil Gore LIT2023001 hrushiK1415 lit2023001@iiitl.ac.in
 
 Pranav Reddy K LIT2023004 PranavReddy0148 lit2023004@iiitl.ac.in
+
+Neelesh Kumar Meena  Lit2023045 Neelesh19634 Lit2023045@iiitl.ac.in
+
+Sakshi Sahu LIT2023025 sakshisahu27 lit2023025@iiitl.ac.in
