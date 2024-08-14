@@ -140,3 +140,5 @@ Tadikonda Purnanagaphaneendra LIT2023026 purnatadikonda5 lit2023026@iiitl.ac.in
 Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
 
 satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
+
+Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
