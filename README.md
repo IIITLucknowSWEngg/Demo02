@@ -74,3 +74,5 @@ Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
 
 Harshit Maheshwari LIT2023052 Harshit78228 lit2023052@iiitl.ac.in
+
+Maneesh Shukla LIT2023040 shuklamaneesh23 shuklamaneesh24@gmail.com
