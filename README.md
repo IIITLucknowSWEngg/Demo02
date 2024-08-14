@@ -50,11 +50,6 @@ Sumit Kumar LCS2023044 Eternalynx04 lcs2023044@iiitl.ac.in
 
 Aditya Raj LIT2023003 Aditya2023003 LIT2023003@iiitl.ac.in
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
 Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
