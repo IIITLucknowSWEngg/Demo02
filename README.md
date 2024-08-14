@@ -100,3 +100,5 @@ Sanchita Patel LCS2023022 sanchitapatel29 lcs2023022@iiitl.ac.in
 Rishiraj Mukherjee LIT2023030 rishyym0927 lit2023030@iiitl.ac.in
 
 Amolly Choudhary LCS2023019 amolly06 lcs2023019@iiitl.ac.in
+
+Pranay Buradkar LIT2023027 pranayyb lit2023027@iiitl.ac.in
