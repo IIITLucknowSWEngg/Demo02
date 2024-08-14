@@ -75,6 +75,8 @@ Ayush Yadav Lit2023049 theayushyadav11 lit2023049@iiitl.ac.in
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
 
+Vedant Jadhav LCS2023035 VedantJadhav0017 vedantjadhav44551@gmail.com 
+
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
 
 Karan Agarwal LIT2023011 Karanagarwal12 lit2023011@iiitl.ac.in
