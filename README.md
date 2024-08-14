@@ -172,3 +172,5 @@ Kalyan Chilamkuri LCS2023030 kalyanchilamkuri lcs2023030@iiitl.ac.in
 Anadi Mehta LCS2023020 anadimehta lcs2023020@iiitl.ac.in
 
 Deepanshi Verma LCS2023010 DeepanshiiVerma lcs2023010@iiitl.ac.in
+
+Akshat Singh LCS2023042 Luv888 lcs2023042@iiitl.ac.in
