@@ -57,6 +57,8 @@ Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Salusha LCS2023009 Salusha lcs2023009@iiitl.ac.in
 
+Snehal Taori LCS2023008 snehaltaori lcs2023008@iiitl.ac.in
+
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
 Vivek Tripathi LCS2023004 vivek23024 lcs2023004@iiitl.ac.in
