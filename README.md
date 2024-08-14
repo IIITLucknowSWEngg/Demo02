@@ -138,3 +138,5 @@ Nalla Hitha Sai Srinath LCS2023001 saisrinath21 lcs2023001@iiitl.ac.in
 Tadikonda Purnanagaphaneendra LIT2023026 purnatadikonda5 lit2023026@iiitl.ac.in
 
 Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
+
+satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
