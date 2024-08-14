@@ -144,3 +144,5 @@ Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
 satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
 
 Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
+
+Vinayak Chaurasia LCS2023041 VinayakChaurasia007 lcs2023041@iiitl.ac.in
