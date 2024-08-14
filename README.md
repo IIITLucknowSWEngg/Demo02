@@ -178,3 +178,5 @@ Akshat Singh LCS2023042 Luv888 lcs2023042@iiitl.ac.in
 Pappala sai sri chandana LCS2023037 srisaichandana lcs2023037@iiitl.ac.in
 
 Mula yuva hemasri LCS2023007 Hemasri05 lcs2023007@iiitl.ac.in
+
+Kukkudapu Srinidhi LCS2023027 Sreenidhi01 lcs2023027@iiitl.ac.in
