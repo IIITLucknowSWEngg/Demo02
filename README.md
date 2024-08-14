@@ -6,11 +6,15 @@ Vinaya Sathyanarayana Roll_No VinayaSathyanarayana vinaya@iiitl.ac.in
 
 Sangale Sumit Mahadeo LCS2023048 sumit0770 lcs2023048@iiitl.ac.in
 
+Aryan Kadian LCS2023051 aryankad1an lcs2023051@iiitl.ac.in
+
 Vishal Parida LIT2023044 vishalparida lit2023044@iiitl.ac.in
 
 Mayank Mishra LCS2023047 M-ayank2005 lcs2023047@gmail.com
 
 Ajay Antil LCS2023025 Ajayantil7 lcs2023025@iiitl.ac.in
+
+Prince LIT2023050 prince9569 www.princetdl@gmail.com 
 
 Shivam Zhar LCS2023024 Shivam1983 lcs2023024@iiitl.ac.in
 
@@ -30,6 +34,8 @@ Yuwansh Bansal LCS2023005 YuwanshB005 lcs2023005@iiitl.ac.in
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
 Dev Darshan LCS2023012 devdrx lcs2023012@iiitl.ac.in
+
+Aditya Mahamuni LCS2023023 Robinaditya1045 lcs2023023@iiitl.ac.in
 
 Sidharth Singh LCS2023043 Sidharth-Singh10 lcs2023043@iiitl.ac.in
 
@@ -55,6 +61,8 @@ Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Salusha LCS2023009 Salusha lcs2023009@iiitl.ac.in
 
+Snehal Taori LCS2023008 snehaltaori lcs2023008@iiitl.ac.in
+
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
 
 Vivek Tripathi LCS2023004 vivek23024 lcs2023004@iiitl.ac.in
@@ -68,6 +76,11 @@ Mohd Haider LCS2023038 haider038 lcs2023038@iiitl.ac.in
 Ayush Yadav Lit2023049 theayushyadav11 lit2023049@iiitl.ac.in
 
 Piyush Kumar LIT2023016 piyushkumar079 piyushkumar07999@gmail.com
+
+Prakash kumar Lcs2023056 PrakashKumar88
+9101prakashkumar@gmail.com
+
+Vedant Jadhav LCS2023035 VedantJadhav0017 vedantjadhav44551@gmail.com 
 
 Om Swami LIT2023002 MrImmortal09 lit2023002@iiitl.ac.in
 
@@ -111,4 +124,36 @@ Aditya Gunjkar LIT2023015 aditya-gg04 lit2023015@iiitl.ac.in
 
 Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
 
+<<<<<<< HEAD
 Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 lit2023010@iiitl.ac.in
+=======
+Maneesh Kumar LIT2023051 mani4002 lit2023051@iiitl.ac.in
+
+ Venkata Sai Tejesh Thatikonda LIT2023010 SaiTejesh09 lit2023010@iiitl.ac.in
+
+Ashok kaji LCS2023018 ashokkaji26 lcs2023018@iiitl.ac.in
+
+Satyam Gupta LIT2023007 satyamgupta08 lit2023007@iiitl.ac.in
+
+Arshia Adhya LCS2023029 ArshiaAdhya lcs2023029@iiitl.ac.in 
+
+Abhay Prasad LIT2023006 abhay9494 lit2023006@iiitl.ac.in
+
+Siddharth Paladi LCS2023032 SiddharthPaladi lcs2023032@iiitl.ac.in
+
+Gana Kalvakuntla LCS2023049 ganakalvakuntla2006 lcs2023049@iiitl.ac.in
+
+Nalla Hitha Sai Srinath LCS2023001 saisrinath21 lcs2023001@iiitl.ac.in
+
+Tadikonda Purnanagaphaneendra LIT2023026 purnatadikonda5 lit2023026@iiitl.ac.in
+
+Nidhish kureti LCS2023016 nidhishkureti lcs2023016@iiitl.ac.in
+
+satpute vishal suryakant lcs2023052 vishal18713 lcs2023052@iiitl.ac.in
+
+Nayaab Zameer Qazi LCS2023036 nybzmr nybzmr02@gmail.com
+
+Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
+
+Sankaramaddi yamini lcs2023031 yamms2340 lcs2023031@iiitl.ac.in
+>>>>>>> 31d317743ff1a9e5c7b3b8c4dc7cabceab3f5478
