@@ -106,3 +106,5 @@ Amolly Choudhary LCS2023019 amolly06 lcs2023019@iiitl.ac.in
 Pranay Buradkar LIT2023027 pranayyb lit2023027@iiitl.ac.in
 Tanishk Khandelwal LIT2023020 Tanishk4444 lit2023020@iiitl.ac.in
 >>>>>>> d5570fb9cbe9600a9cf48bc98bc993527bc0ea02
+
+Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
