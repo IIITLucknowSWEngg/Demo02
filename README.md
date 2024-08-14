@@ -57,3 +57,6 @@ Aditya Raj LIT2023003 Aditya2023003 LIT2023003@iiitl.ac.in
 Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
 Sarthak Nayyar LCS2023039 sarthaknayyar LCS2023039@iiitl.ac.in
+
+Prakash kumar Lcs2023056 Prakashkumar88
+Lcs2023056@gmail.ac.in
