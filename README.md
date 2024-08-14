@@ -158,3 +158,5 @@ Mayank LIT2023008 mayank0377 lit2023008@iiitl.ac.in
 Sankaramaddi yamini lcs2023031 yamms2340 lcs2023031@iiitl.ac.in
 
 Koyyani Naga Sai Yaaghnetha LIT2023034 yaaghnetha09 lit2023034@iiitl.ac.in
+
+Jigyasa Jamra LIT2023014 jigyasajamra lit2023014@iiitl.ac.in
