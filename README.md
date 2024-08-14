@@ -110,3 +110,5 @@ Aditya Gunjkar LIT2023015 aditya-gg04 lit2023015@iiitl.ac.in
 >>>>>>> d5570fb9cbe9600a9cf48bc98bc993527bc0ea02
 
 Pranjal Sharma LCS2023050 pranjalsha pranjalsharma013350@gmail.com
+
+Thatikonda Venkata Sai Tejesh LIT2023010 SaiTejesh09 tejesh.tatikonda@gmail.com
