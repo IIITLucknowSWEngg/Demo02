@@ -167,4 +167,4 @@ Akshaya V LCS2023011 akshayaxv lcs2023011@iiitl.ac.in
 
 Kalyan Chilamkuri LCS2023030 kalyanchilamkuri lcs2023030@iiitl.ac.in
 
-Anadi Mehta LCS2023020 anadimehta lcs2023020@gmail.com
+Anadi Mehta LCS2023020 anadimehta lcs2023020@iiitl.ac.in
