@@ -194,3 +194,5 @@ Sai lokesh LIT2023057 Sailokesh321 lit2023057@iiitl.ac.in
 Ananya Varshney LIT2023035 ananyavarshney1 lit2023035@iiitl.ac.in
 
 Ankit Mahich LCS2023002 ankitmahich lcs2023002@iiitl.ac.in
+
+Anamika kumari LIT2023036 Anamikasaini21 lit2023036@iiitl.ac.in
